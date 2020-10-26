@@ -1,0 +1,46 @@
+[
+    {
+         "name": "Legally Blonde",
+         "poster": "https://trello-attachments.s3.amazonaws.com/5f0b817c7da35f8f01542c61/5f0c33202c6dae0168056656/e7923beaf2ac2bbb7c8e3457bd219445/legally-blonde.jpg",
+         "words": [
+               {
+                   "word": "viscosity",
+                   "translation": "в'язкість"
+               },
+               {
+                   "word": "rayon",
+                   "translation": "штучний шовк"
+               },
+               {
+                    "word": "hem",
+                    "translation": "край, поділ"
+               },
+               {
+                     "word": "to snag",
+                     "translation": "catch or tear something on a sharp projection"
+               },
+               {
+                     "word": "amenable",
+                     "translation": "open and responsive to suggestions"
+               },
+               {
+                     "word": "to dick around",
+                     "translation": "to waste time"
+               }
+         ]
+    },
+    {
+         "name": "How to Lose a Guy in 10 Days",
+         "poster": "https://trello-attachments.s3.amazonaws.com/5f0b817c7da35f8f01542c61/5f0c3337c907fe31aa74ac87/8c2d0ba2b45c1fa0a2405e12daa08870/53ae7a016173bf863d1db38b.png",
+         "words":[
+               {
+                     "word": "exhilarating",
+                     "translation": "making one feel very happy, animated or elated; thrilling"
+               },
+               {
+                     "word": "wallow",
+                     "translation": "the act of lying around slowly in deep, wet earth, sand or water"
+               }
+         ]
+    }
+]
